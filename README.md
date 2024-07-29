@@ -6,9 +6,9 @@ This project is a simple drawing tool implemented using HTML, CSS, and JavaScrip
 
 The Drawing Tool provides a canvas where users can draw shapes, lines, and patterns using their mouse or touch input. It offers basic drawing functionalities similar to popular drawing applications, making it suitable for creating simple illustrations or diagrams.
 
-## Live Demo  [https://sac-rjk.github.io/Drawing-tool/]
+## Live Demo  
 
-Here is the live domo of project []
+Here is the live domo of project [https://sac-rjk.github.io/Drawing-tool/]
 
 
 
